@@ -136,3 +136,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Project specific folders
+cache/
+data/
+aligned_images/
+raw_images/
